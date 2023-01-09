@@ -1,6 +1,6 @@
 # GitHub Practice
 
-## Setup
+ # Setup
 
 - Fork this repository
 - Navigate to where you want to clone down the repo
